@@ -1,0 +1,71 @@
+C:\Users\AHMED HAMADA\source\repos\FitScores\FitScores\bin\Debug\FitScores.exe.config
+C:\Users\AHMED HAMADA\source\repos\FitScores\FitScores\bin\Debug\FitScores.exe
+C:\Users\AHMED HAMADA\source\repos\FitScores\FitScores\bin\Debug\FitScores.pdb
+C:\Users\AHMED HAMADA\source\repos\FitScores\FitScores\obj\Debug\FitScores.csproj.AssemblyReference.cache
+C:\Users\AHMED HAMADA\source\repos\FitScores\FitScores\obj\Debug\FitScores.Form1.resources
+C:\Users\AHMED HAMADA\source\repos\FitScores\FitScores\obj\Debug\FitScores.male.resources
+C:\Users\AHMED HAMADA\source\repos\FitScores\FitScores\obj\Debug\FitScores.Properties.Resources.resources
+C:\Users\AHMED HAMADA\source\repos\FitScores\FitScores\obj\Debug\FitScores.csproj.GenerateResource.cache
+C:\Users\AHMED HAMADA\source\repos\FitScores\FitScores\obj\Debug\FitScores.csproj.CoreCompileInputs.cache
+C:\Users\AHMED HAMADA\source\repos\FitScores\FitScores\obj\Debug\FitScores.exe
+C:\Users\AHMED HAMADA\source\repos\FitScores\FitScores\obj\Debug\FitScores.pdb
+C:\Users\AHMED HAMADA\source\repos\FitScores\FitScores\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\AHMED HAMADA\source\repos\FitScores\FitScores\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\AHMED HAMADA\source\repos\FitScores\FitScores\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\AHMED HAMADA\source\repos\FitScores\FitScores\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\AHMED HAMADA\source\repos\FitScores\FitScores\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\AHMED HAMADA\source\repos\FitScores\FitScores\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\AHMED HAMADA\source\repos\FitScores\FitScores\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\AHMED HAMADA\source\repos\FitScores\FitScores\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\AHMED HAMADA\source\repos\FitScores\FitScores\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\AHMED HAMADA\source\repos\FitScores\FitScores\bin\Debug\System.Buffers.dll
+C:\Users\AHMED HAMADA\source\repos\FitScores\FitScores\bin\Debug\System.Memory.dll
+C:\Users\AHMED HAMADA\source\repos\FitScores\FitScores\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\AHMED HAMADA\source\repos\FitScores\FitScores\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\AHMED HAMADA\source\repos\FitScores\FitScores\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\AHMED HAMADA\source\repos\FitScores\FitScores\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\AHMED HAMADA\source\repos\FitScores\FitScores\bin\Debug\System.Buffers.xml
+C:\Users\AHMED HAMADA\source\repos\FitScores\FitScores\bin\Debug\System.Memory.xml
+C:\Users\AHMED HAMADA\source\repos\FitScores\FitScores\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\AHMED HAMADA\source\repos\FitScores\FitScores\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\AHMED HAMADA\source\repos\FitScores\FitScores\obj\Debug\FitScores.addmale.resources
+C:\Users\AHMED HAMADA\source\repos\FitScores\FitScores\obj\Debug\FitScores.csproj.CopyComplete
+C:\Users\AHMED HAMADA\source\repos\FitScores\FitScores\obj\Debug\FitScores.addfemale.resources
+C:\Users\AHMED HAMADA\source\repos\FitScores\FitScores\obj\Debug\FitScores.female.resources
+C:\Users\AHMED HAMADA\source\repos\FitScores\FitScores\obj\Debug\FitScores.me.resources
+F:\gits\FitScores\FitScores\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+F:\gits\FitScores\FitScores\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+F:\gits\FitScores\FitScores\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+F:\gits\FitScores\FitScores\bin\Debug\FitScores.exe.config
+F:\gits\FitScores\FitScores\bin\Debug\FitScores.exe
+F:\gits\FitScores\FitScores\bin\Debug\FitScores.pdb
+F:\gits\FitScores\FitScores\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+F:\gits\FitScores\FitScores\bin\Debug\Microsoft.Data.Sqlite.dll
+F:\gits\FitScores\FitScores\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+F:\gits\FitScores\FitScores\bin\Debug\SQLitePCLRaw.core.dll
+F:\gits\FitScores\FitScores\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+F:\gits\FitScores\FitScores\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+F:\gits\FitScores\FitScores\bin\Debug\System.Buffers.dll
+F:\gits\FitScores\FitScores\bin\Debug\System.Memory.dll
+F:\gits\FitScores\FitScores\bin\Debug\System.Numerics.Vectors.dll
+F:\gits\FitScores\FitScores\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\gits\FitScores\FitScores\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+F:\gits\FitScores\FitScores\bin\Debug\Microsoft.Data.Sqlite.xml
+F:\gits\FitScores\FitScores\bin\Debug\System.Buffers.xml
+F:\gits\FitScores\FitScores\bin\Debug\System.Memory.xml
+F:\gits\FitScores\FitScores\bin\Debug\System.Numerics.Vectors.xml
+F:\gits\FitScores\FitScores\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\gits\FitScores\FitScores\obj\Debug\FitScores.csproj.AssemblyReference.cache
+F:\gits\FitScores\FitScores\obj\Debug\FitScores.csproj.SuggestedBindingRedirects.cache
+F:\gits\FitScores\FitScores\obj\Debug\FitScores.addfemale.resources
+F:\gits\FitScores\FitScores\obj\Debug\FitScores.addmale.resources
+F:\gits\FitScores\FitScores\obj\Debug\FitScores.female.resources
+F:\gits\FitScores\FitScores\obj\Debug\FitScores.Form1.resources
+F:\gits\FitScores\FitScores\obj\Debug\FitScores.male.resources
+F:\gits\FitScores\FitScores\obj\Debug\FitScores.me.resources
+F:\gits\FitScores\FitScores\obj\Debug\FitScores.Properties.Resources.resources
+F:\gits\FitScores\FitScores\obj\Debug\FitScores.csproj.GenerateResource.cache
+F:\gits\FitScores\FitScores\obj\Debug\FitScores.csproj.CoreCompileInputs.cache
+F:\gits\FitScores\FitScores\obj\Debug\FitScores.csproj.CopyComplete
+F:\gits\FitScores\FitScores\obj\Debug\FitScores.exe
+F:\gits\FitScores\FitScores\obj\Debug\FitScores.pdb
